@@ -1,28 +1,16 @@
 {
-  "name": "vidly-backend",
+  "name": "vidly",
   "version": "1.0.0",
-  "description": "Backend for Vidly web application",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/skojic/vidly-backend.git"
-  },
-  "keywords": [
-    "vidly",
-    "back-end",
-    "renting video"
-  ],
-  "author": "Srdjan Kojic",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/skojic/vidly-backend/issues"
-  },
-  "homepage": "https://github.com/skojic/vidly-backend#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "joi": "^14.0.0"
+    "express": "^4.16.2",
+    "joi": "^13.1.0"
   }
 }
