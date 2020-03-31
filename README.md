@@ -1,3 +1,3 @@
 # Vidly
 
-Back end of web application for renting movies
+Back end of simple web app for renting movies.
